@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing ",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "dependencies": {
+    "@react-native-community/geolocation": "^3.0.6",
+    "fast-geoip": "^1.1.88",
+    "geolocation": "^0.0.0",
+    "jquery": "^3.7.0",
+    "jsdom": "^22.1.0",
+    "navigator": "^1.0.1",
+    "neutrino": "^9.5.0",
+    "node": "^20.5.0",
+    "whois": "^2.14.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
